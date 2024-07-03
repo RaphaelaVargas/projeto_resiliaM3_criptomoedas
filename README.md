@@ -7,4 +7,4 @@
 * os 
 
 ## Descrição
-Este projeto carrega dados históricos de várias criptomoedas, realiza modificações nos DataFrames, calcula estatísticas descritivas, gera visualizações e analisa a volatilidade das criptomoedas.
+Este projeto carrega dados históricos de várias criptomoedas a partir de links externos, realiza modificações nos DataFrames, calcula estatísticas descritivas, gera visualizações e analisa a volatilidade das criptomoedas.
