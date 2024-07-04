@@ -26,8 +26,6 @@ analise_criptomoedas.ipynb: Notebook principal contendo o código completo da an
 
 Links Externos: Os dados das criptomoedas são carregados diretamente de links externos para arquivos CSV.
 
-dashbord acabou sendo criado no powerbi
-
 ## Contribuições
 
 https://github.com/GuttenbergJr
