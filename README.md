@@ -28,7 +28,7 @@ Links Externos: os dados das criptomoedas são carregados diretamente de links e
 
 ## Contribuições
 
-[Guttenberg](https://github.com/GuttenbergJr)
+[Guttenberg ](https://github.com/GuttenbergJr)
 
 [Thiago](https://github.com/ThiagoJaime)
 
