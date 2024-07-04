@@ -28,12 +28,12 @@ Links Externos: os dados das criptomoedas são carregados diretamente de links e
 
 ## Contribuições
 
-[Guttenberg ](https://github.com/GuttenbergJr)
+[GuttenbergJr](https://github.com/GuttenbergJr)
 
-[Raphaela](raphaela.vargas@hotmail.com )
+[raphaela.vargasa](raphaela.vargas@hotmail.com )
 
-[Eloise](https://github.com/eloisemf)
+[eloisemf](https://github.com/eloisemf)
 
-[Thiago](https://github.com/ThiagoJaime)
+[ThiagoJaime](https://github.com/ThiagoJaime)
 
-[Matheus](https://github.com/MatheusMendoca)
+[MatheusMendoca](https://github.com/MatheusMendoca)
