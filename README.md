@@ -30,10 +30,10 @@ Links Externos: os dados das criptomoedas são carregados diretamente de links e
 
 [Guttenberg ](https://github.com/GuttenbergJr)
 
-[Thiago](https://github.com/ThiagoJaime)
+[Raphaela](raphaela.vargas@hotmail.com )
 
 [Eloise](https://github.com/eloisemf)
 
-[Matheus](https://github.com/MatheusMendoca)
+[Thiago](https://github.com/ThiagoJaime)
 
-[Raphaela](raphaela.vargas@hotmail.com )
+[Matheus](https://github.com/MatheusMendoca)
