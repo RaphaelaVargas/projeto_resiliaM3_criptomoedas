@@ -12,6 +12,7 @@ Este projeto visa analisar um conjunto de dados abrangendo diversas criptomoedas
 
 ## Estrutura do Projeto
 Cripto-Analise.ipynb: Notebook principal contendo o código completo da análise.
+
 Criptomoedas: pasta onde se encontra os links externos das criptomoedas que são carregados diretamente para o Notebook.
 
 ## Apresentação
