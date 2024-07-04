@@ -8,12 +8,11 @@
 
 ## Descrição
 
-o projeto foi feito com os dados e as histórias de várias criptomoedas, carregados a partir dos links fornecidos. Os dataframes foram modificados adicionados ao cálculo da estatística descritiva e a análise da criptomoeda. Foi feita uma seleção de 10 moedas usando as 5 melhores e as 5 piores. O Google Colab foi a definição da ferramenta da equipe para desenvolver o projeto, possibilitando o desenvolvimento colaborativo à simultânea, sem um interferir no trabalho do outro. Os gráficos foram feitos no Power BI para garantir uma leitura mais clara dos dados e a possibilidade de um dashboard interativo e informativo
+Este projeto visa analisar um conjunto de dados abrangendo diversas criptomoedas, com foco nos valores de fechamento, abertura e nos extremos diários (máximo e mínimo - OHLC). Os dados foram adquiridos do Kaggle e selecionados visualmente 10 moedas com base no desempenho: 5 melhores e 5 piores. O Google Colab foi utilizado como ferramenta principal para permitir o desenvolvimento colaborativo, facilitando o trabalho simultâneo sem interferências. Após a limpeza e filtragem dos dados, eles foram transformados em um DataFrame. Os gráficos foram criados no Power BI para garantir uma visualização clara dos dados e oferecer um dashboard interativo e informativo.
 
 ## Estrutura do Projeto
 Cripto-Analise.ipynb: Notebook principal contendo o código completo da análise.
-
-Links Externos: os dados das criptomoedas são carregados diretamente de links externos para o Notebook
+Criptomoedas: pasta onde se encontra os links externos das criptomoedas que são carregados diretamente para o Notebook.
 
 ## Apresentação
 [📽 Slides](https://www.canva.com/design/DAGJvOIl2Xc/fguuWTQkdpPG_kxpMAlyJg/edit?utm_content=DAGJvOIl2Xc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
