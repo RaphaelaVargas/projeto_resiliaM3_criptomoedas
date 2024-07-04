@@ -26,6 +26,9 @@ Analise_criptomoedas.ipynb: Notebook principal contendo o código completo da an
 
 Links Externos: os dados das criptomoedas são carregados diretamente de links externos para o Notebook
 
+## Apresentação de Slides
+https://www.canva.com/design/DAGJvOIl2Xc/fguuWTQkdpPG_kxpMAlyJg/edit?utm_content=DAGJvOIl2Xc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Contribuições
 
 [GuttenbergJr](https://github.com/GuttenbergJr)
