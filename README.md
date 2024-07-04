@@ -8,3 +8,20 @@
 
 ## Descrição
 Este projeto carrega dados históricos de várias criptomoedas a partir de links externos, realiza modificações nos DataFrames, calcula estatísticas descritivas, gera visualizações e analisa a volatilidade das criptomoedas.
+
+## Instruções
+Abrir no Google Colab:
+
+Abra o notebook analise_criptomoedas.ipynb no Google Colab.
+Executar o Notebook:
+
+Execute cada célula do notebook para carregar os dados, realizar as análises e gerar as visualizações.
+
+### aviso
+
+se utilizado no visual studio code vai precisar instalar as blibliotecas
+
+## Estrutura do Projeto
+analise_criptomoedas.ipynb: Notebook principal contendo o código completo da análise.
+Links Externos: Os dados das criptomoedas são carregados diretamente de links externos para arquivos CSV.
+dashbord acabou sendo criado no powerbi
