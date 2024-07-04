@@ -1,16 +1,16 @@
 # Análise Historica: Tendências e Insights   
 
 ## 👨‍💻 Tecnologias Utilizadas
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
 * Seaborn
 * Os 
 
 ## Descrição
-Este projeto carrega dados históricos de várias criptomoedas a partir de links externos, realiza modificações nos DataFrames, calcula estatísticas descritivas, gera visualizações e analisa a volatilidade das criptomoedas.
+No projeto, foram carregados dados históricos de várias criptomoedas a partir de links externos. Em seguida, foram realizadas modificações nos DataFrames e calculadas estatísticas descritivas, além da análise da volatilidade das criptomoedas. As 10 moedas escolhidas foram selecionadas entre as 5 melhores e 5 piores em termos de desempenho. Optou-se por utilizar o Google Colab para o desenvolvimento colaborativo, permitindo que todos pudessem trabalhar simultaneamente no projeto. Os gráficos foram criados no Power BI devido à sua capacidade de proporcionar uma melhor visualização dos dados e pela possibilidade de desenvolver um dashboard interativo e informativo.
 
 ## Estrutura do Projeto
-Analise_criptomoedas.ipynb: Notebook principal contendo o código completo da análise.
+Cripto-Analise.ipynb: Notebook principal contendo o código completo da análise.
 
 Links Externos: os dados das criptomoedas são carregados diretamente de links externos para o Notebook
 
