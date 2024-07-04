@@ -32,7 +32,8 @@ Links Externos: os dados das criptomoedas são carregados diretamente de links e
 
 [Thiago](https://github.com/ThiagoJaime)
 
-[eloise](https://github.com/eloisemf)
+[Eloise](https://github.com/eloisemf)
 
-[Matheus Silva Mendoça](https://github.com/MatheusMendoca)
+[Matheus](https://github.com/MatheusMendoca)
 
+[Raphaela](raphaela.vargas@hotmail.com )
