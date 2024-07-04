@@ -26,8 +26,16 @@ Analise_criptomoedas.ipynb: Notebook principal contendo o código completo da an
 
 Links Externos: os dados das criptomoedas são carregados diretamente de links externos para o Notebook
 
-## Apresentação de Slides
-https://www.canva.com/design/DAGJvOIl2Xc/fguuWTQkdpPG_kxpMAlyJg/edit?utm_content=DAGJvOIl2Xc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+## Apresentação
+[📽 Slides](https://www.canva.com/design/DAGJvOIl2Xc/fguuWTQkdpPG_kxpMAlyJg/edit?utm_content=DAGJvOIl2Xc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+## Visualizando e Editando os Dados
+Para visualizar e editar os dados, siga as instruções abaixo:
+
+1. Baixe o arquivo `Cripto-Analise.ipynb`.
+2. Abra o [Google Colab](https://colab.research.google.com/).
+3. Vá para `Arquivo > Fazer upload de notebook` e escolha o arquivo `Cripto-Analise.ipynb`.
+4. Execute as células de código clicando na seta ou pressionando `Ctrl + Enter` no teclado.
 
 ## Contribuições
 
