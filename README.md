@@ -24,7 +24,7 @@ Se utilizado no visual studio code vai precisar instalar as blibliotecas
 ## Estrutura do Projeto
 Analise_criptomoedas.ipynb: Notebook principal contendo o código completo da análise.
 
-Links Externos: os dados das criptomoedas são carregados diretamente de links externos para arquivos CSV.
+Links Externos: os dados das criptomoedas são carregados diretamente de links externos para o Notebook
 
 ## Contribuições
 
