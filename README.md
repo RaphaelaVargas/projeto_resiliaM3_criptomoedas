@@ -7,8 +7,9 @@
 * Os 
 
 ## Descrição
-O projeto foi desenvolvido com o objetivo de carregar dados e histórias de várias criptomoedas a partir de links externos. Em seguida, foram realizadas modificações nos dataframes e cálculos de estatísticas descritivas, além da análise das criptomoedas. As 10 moedas escolhidas foram selecionadas entre as 5 com melhor desempenho e as 5 com pior desempenho.
-A equipe optou por utilizar o Google Colab como ferramenta de desenvolvimento, permitindo que o projeto fosse realizado de forma colaborativa e simultânea, sem interferir no trabalho dos outros membros. Os gráficos foram criados no Power BI, devido à sua capacidade de proporcionar uma melhor visualização dos dados e pela possibilidade de desenvolver um dashboard interativo e informativo.
+
+o projeto foi feito com os dados e as histórias de várias criptomoedas, carregados a partir dos links fornecidos. Os dataframes foram modificados adicionados ao cálculo da estatística descritiva e a análise da criptomoeda. Foi feita uma seleção de 10 moedas usando as 5 melhores e as 5 piores. O Google Colab foi a definição da ferramenta da equipe para desenvolver o projeto, possibilitando o desenvolvimento colaborativo à simultânea, sem um interferir no trabalho do outro. Os gráficos foram feitos no Power BI para garantir uma leitura mais clara dos dados e a possibilidade de um dashboard interativo e informativo
+
 ## Estrutura do Projeto
 Cripto-Analise.ipynb: Notebook principal contendo o código completo da análise.
 
