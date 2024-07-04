@@ -30,10 +30,11 @@ dashbord acabou sendo criado no powerbi
 
 ## Contribuições
 
-https://github.com/MatheusMendoca
-
 https://github.com/GuttenbergJr
 
 https://github.com/ThiagoJaime
 
 https://github.com/eloisemf
+
+https://github.com/MatheusMendoca
+
