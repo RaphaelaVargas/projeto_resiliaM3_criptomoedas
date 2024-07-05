@@ -16,6 +16,7 @@ Criptomoedas: pasta onde se encontra os links externos das criptomoedas que são
 
 ## Apresentação
 [📽 Slides](https://www.canva.com/design/DAGJvOIl2Xc/fguuWTQkdpPG_kxpMAlyJg/edit?utm_content=DAGJvOIl2Xc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 [📊 Power Bi](https://app.powerbi.com/view?r=eyJrIjoiZTE0Mjk4NzUtZmRlMC00MmNiLWFjYjEtMWZmNmZjMzU0OWRhIiwidCI6IjcxYmI3NGYwLTI3ZTMtNGZiNy1iZDQ1LThlODBiMmUxNzM3OSJ9)
 
 ## Visualizando e Editando os Dados
