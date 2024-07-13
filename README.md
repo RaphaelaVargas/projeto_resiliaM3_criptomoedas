@@ -34,7 +34,7 @@ Para visualizar e editar os dados, siga as instruções abaixo:
 
 [GuttenbergJr](https://github.com/GuttenbergJr)
 
-[raphaela.vargasa](raphaela.vargas@hotmail.com )
+[raphaela.vargas](https://github.com/RaphaelaVargas)
 
 [eloisemf](https://github.com/eloisemf)
 
